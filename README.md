@@ -4,7 +4,7 @@
   - Aplicación del Patrón Screenplay.
   - Aplicación del modelo y estructura de proyecto.
   - Uso adecuado de la prioridad en la identificación de los objetos (locators)
-       -o Id
-       -o Name
-       -o Class
-       -o Xpath relativos
+       - o Id
+       - o Name
+       - o Class
+       - o Xpath relativos
