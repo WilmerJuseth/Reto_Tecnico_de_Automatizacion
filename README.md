@@ -8,3 +8,6 @@
        -  Name
        -  Class
        -  Xpath relativos
+> Ejecucion 
+ - Java 1.8
+ - Gradel 7.4
